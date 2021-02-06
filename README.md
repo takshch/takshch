@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-- 🔨 I'm currently working on Ember.js
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/takshch)
 
 #### Languages and Frameworks
