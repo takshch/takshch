@@ -7,7 +7,7 @@
   <img align="left" alt="Taksh Chanana's LinkedIn" width="65px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br />
-- I am Software Development Engineer at YUDEK Inc and Computer Science & Engineering student.
+- I am Computer Science & Engineering student and Ex - Software Development Engineer at YUDEK Inc.
 - 📫 How to reach me: [@takshch](https://linkedin.com/in/takshch)
 
 
