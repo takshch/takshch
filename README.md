@@ -7,7 +7,7 @@
   <img align="left" alt="Taksh Chanana's LinkedIn" width="65px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br />
-- I am Ex-SDE at Print Intuitively, a Computer Science & Engineering student and Ex - SDE at YUDEK Inc.
+- I am Ex-SDE at Print Intuitively, Ex-SDE at YUDEK Inc, and a Computer Science & Engineering student.
 - 📫 How to reach me: [@takshch](https://linkedin.com/in/takshch)
 
 
