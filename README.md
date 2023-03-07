@@ -7,8 +7,7 @@
   <img align="left" alt="Taksh Chanana's LinkedIn" width="65px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br />
-- I am Ex-SDE at Print Intuitively, Ex-SDE at YUDEK Inc, and a Computer Science & Engineering student.
-- 📫 How to reach me: [@takshch](https://linkedin.com/in/takshch)
+- I am working as freelancer(Full stack developer), Ex-SDE at Print Intuitively, Ex-SDE at YUDEK Inc.
 
 
 #### Languages and Frameworks
