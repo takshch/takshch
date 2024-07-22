@@ -1,5 +1,13 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Currently, I am working as a Software Developer at Codebrahma
+Currently, I am looking for a job.
+<br />
+I am a Frontend-heavy Full Stack Developer with 2+ years of experience.
+<br />
+I have worked in early-stage startups and small companies.
+<br />
+I have built and shipped 12 web apps in production till now.
+<br />
+I can <b>join immediately</b> and start giving output as quickly as possible.
 
 <a href="mailto:takshch089@gmail.com">
   <img align="left" alt="Taksh Chanana's LinkedIn" width="65px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -7,6 +15,7 @@ Currently, I am working as a Software Developer at Codebrahma
 <br>
 
 #### Past Work Experiences
+  - Software Developer at Codebrahma
   - Full Stack Developer at Vantcode
   - SDE at Print Intuitively
   - SDE at YUDEK Inc
