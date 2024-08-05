@@ -1,9 +1,9 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Currently, I am looking for a job.
 <br />
-I am a Frontend-heavy Full Stack Developer with 2+ years of experience.
+I am a Full Stack Developer.
 <br />
-I have worked in early-stage startups and small companies.
+In the last 2+ years, I have worked in early-stage startups and small companies.
 <br />
 I have built and shipped 12 web apps in production till now.
 <br />
