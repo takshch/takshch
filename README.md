@@ -7,7 +7,6 @@ In the last 2+ years, I have worked in early-stage startups and small companies.
 <br />
 I have built and shipped 12 web apps in production till now.
 <br />
-I can <b>join immediately</b> and start giving output as quickly as possible.
 
 <a href="mailto:takshch089@gmail.com">
   <img align="left" alt="Taksh Chanana's LinkedIn" width="65px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
