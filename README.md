@@ -1,6 +1,5 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Currently, I am looking for a job.
-<br />
+
 I am a Full Stack Developer.
 <br />
 In the last 2+ years, I have worked in early-stage startups and small companies.
