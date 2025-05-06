@@ -4,7 +4,7 @@ I am a Full Stack Developer with 2+ years of experience.
 <br />
 I have worked in early-stage startups.
 <br />
-I have built and shipped 12 web apps.
+I have built and shipped 12 web apps including 3 web apps on LLMs.
 <br />
 
 <a href="mailto:takshch089@gmail.com">
