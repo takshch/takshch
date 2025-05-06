@@ -15,8 +15,8 @@ I have built and shipped 12 web apps including 3 web apps on LLMs.
 #### Past Work Experiences
   - Software Developer at Codebrahma
   - Full Stack Developer at Vantcode
-  - SDE at Print Intuitively
-  - SDE at YUDEK Inc
+  - Software Development Engineer at Print Intuitively
+  - Software Development Engineer at YUDEK Inc
 
 #### Languages and Frameworks
 
