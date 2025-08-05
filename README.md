@@ -1,8 +1,8 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a Full Stack Developer with 2+ years of experience.
+I am a Full Stack Developer
 <br />
-I have worked in early-stage startups.
+I have worked in early-stage startups as a Founding Engineer.
 <br />
 I have built and shipped 12 web apps including 3 web apps on LLMs.
 <br />
