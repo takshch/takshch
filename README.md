@@ -15,8 +15,9 @@ Also, I have worked on Test Agent
 <br>
 
 #### Past Work Experiences
+  - Software Development Engineer at Bytescare
   - Software Developer at Codebrahma
-  - Full Stack Developer at Vantcode
+  - Software Developer at Vantcode
   - Software Development Engineer at Print Intuitively
   - Software Development Engineer at YUDEK Inc
 
