@@ -1,10 +1,12 @@
 ### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a Full Stack Developer
+I am a Software Engineer
 <br />
 I have worked in early-stage startups as a Founding Engineer.
 <br />
-I have built and shipped 12 web apps including 3 web apps on LLMs.
+I have built and shipped 12 web apps, including 3 web apps on LLMs.
+<br />
+Also, I have worked on Test Agent
 <br />
 
 <a href="mailto:takshch089@gmail.com">
